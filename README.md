@@ -1,10 +1,10 @@
 #Simulador de Votação para Síndico
 
 ##Como me usar: 
-1-Inicialização em um terminal python;
-2-As unicas entradas cabiveis são das opções apresentadas em tela[1,2,3,4,5,6,7,8,9,0 e 99]; 
-3-Para encerrar a votação deve-se digitar o código [99]
-4-A tebala de resultados é exibida em tela juntamente com o vencedor
+**1-Inicialização em um terminal python;
+**2-As unicas entradas cabiveis são das opções apresentadas em tela[1,2,3,4,5,6,7,8,9,0 e 99]; 
+**3-Para encerrar a votação deve-se digitar o código [99]
+**4-A tebala de resultados é exibida em tela juntamente com o vencedor
 
 Este projeto é um simulador de votação desenvolvido em **Python**, com foco no treinamento de conceitos fundamentais de programação como:
 
